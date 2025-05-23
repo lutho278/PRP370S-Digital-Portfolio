@@ -3,7 +3,7 @@
 ## 📍 Contact Information
 **Email:** aluluthopamente78@gmail.com  
 **Phone:** 0718143268 
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)  
+**GitHub:** [https://github.com/yourusername](https://github.com/lutho278)
 **Location:** 14 Hoffman street, Lot 6, Bellville South
 
 ---
