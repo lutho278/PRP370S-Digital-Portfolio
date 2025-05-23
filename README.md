@@ -24,11 +24,62 @@ This process helped me define a clearer career vision and create a development p
 ## 🧠 Skills and Interests
 
 ### Evidence
-- Max
-- List of top interests based on career aptitude.
+## 🛠️ Core Skills for a Multimedia Student
 
-### Reflection
-[Insert STAR Reflection Here]
+### 🎨 Design & Creativity
+- Visual design principles (color theory, typography, layout)
+- Graphic design using Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+- Branding and visual storytelling
+- UI/UX design (user interface and user experience)
+
+### 🖥️ Technical & Software Proficiency
+- Video editing (Adobe Premiere Pro, Final Cut Pro, After Effects)
+- Audio editing (Audacity, Adobe Audition)
+- 2D/3D animation (Blender, Adobe Animate)
+- Web development basics (HTML, CSS, JavaScript)
+- Motion graphics and visual effects
+
+### 🧠 Conceptual & Theoretical Knowledge
+- Understanding of multimedia communication
+- Digital marketing principles
+- Media theory and audience analysis
+- Content strategy and planning
+
+### 🧩 Soft Skills & Collaboration
+- Creative problem-solving
+- Strong communication skills (visual and verbal)
+- Time management and ability to meet deadlines
+- Collaboration in team environments
+- Adaptability and openness to feedback
+
+### 📁 Portfolio Development
+- Ability to present and explain design work
+- Experience building and maintaining a digital portfolio
+- Understanding of file formats, compression, and optimization for digital delivery
+
+---
+
+*These skills form the foundation for a career in graphic design, animation, film production, digital marketing, web design, and other multimedia-related fields.*
+
+
+### Reflection: Skills and Interests
+
+**S – Situation**  
+As part of the Work Readiness Training for PRP370S, I was required to reflect on and document my personal values, interests, and skills in order to understand how they align with potential career paths.
+
+**T – Task**  
+The task was to follow a structured framework to analyze my strengths and determine how my interests and skills could be applied in a professional context. This involved identifying values, understanding transferable and job-specific skills, and recognizing achievements.
+
+**A – Action**  
+Using the framework provided in the image, I worked through each step:
+- I **identified my core values**, such as creativity, independence, and integrity.
+- I **recognized my interests**, which include digital design, web development, and technology problem-solving.
+- I **understood my transferable skills**, such as communication, teamwork, and attention to detail, developed through academic and group projects like *GoSellin Gourmet*.
+- I **defined job-specific skills**, like proficiency in HTML, CSS, JavaScript, PHP, and Adobe Creative Suite.
+- Lastly, I **identified key achievements**, such as successfully designing and integrating a secure login system and collaborating to create a seamless online store experience.
+
+**R – Result**  
+This process helped me gain a clear understanding of how my strengths and interests align with careers in web development and UI/UX design. It also gave me clarity on what skills I already possess and which ones I need to develop further. As a result, I now feel more confident in targeting career opportunities that are meaningful and well-suited to my abilities.
 
 ---
 
