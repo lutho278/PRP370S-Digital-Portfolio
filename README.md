@@ -1,7 +1,7 @@
 # PRP370S-Digital-Portfolio
 Welcome to my digital portfolio showcasing my personal and professional development journey during the Work Readiness Training.
 ### Evidence
-![Blackboard Submission Receipt](,/media/Career_c.png)
+![Blackboard Submission Receipt](Career_C.png)
 
 ### Reflection: Career Counselling
 
@@ -136,7 +136,7 @@ The result was a professional CV that clearly communicates my technical skills a
 ## CV Submission
 
 ### Evidence
-![Blackboard Submission Receipt](link-to-receipt-image.png)
+![Blackboard Submission Receipt](CV.png)
 
 ### Reflection: CV Submission
 
