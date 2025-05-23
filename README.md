@@ -21,38 +21,38 @@ This process helped me define a clearer career vision and create a development p
 
 ---
 
-## 🧠 Skills and Interests
+##  Skills and Interests
 
 ### Evidence
-## 🛠️ Core Skills for a Multimedia Student
+##  Core Skills for a Multimedia Student
 
-### 🎨 Design & Creativity
+###  Design & Creativity
 - Visual design principles (color theory, typography, layout)
 - Graphic design using Adobe Creative Suite (Photoshop, Illustrator, InDesign)
 - Branding and visual storytelling
 - UI/UX design (user interface and user experience)
 
-### 🖥️ Technical & Software Proficiency
+###  Technical & Software Proficiency
 - Video editing (Adobe Premiere Pro, Final Cut Pro, After Effects)
 - Audio editing (Audacity, Adobe Audition)
 - 2D/3D animation (Blender, Adobe Animate)
 - Web development basics (HTML, CSS, JavaScript)
 - Motion graphics and visual effects
 
-### 🧠 Conceptual & Theoretical Knowledge
+###  Conceptual & Theoretical Knowledge
 - Understanding of multimedia communication
 - Digital marketing principles
 - Media theory and audience analysis
 - Content strategy and planning
 
-### 🧩 Soft Skills & Collaboration
+###  Soft Skills & Collaboration
 - Creative problem-solving
 - Strong communication skills (visual and verbal)
 - Time management and ability to meet deadlines
 - Collaboration in team environments
 - Adaptability and openness to feedback
 
-### 📁 Portfolio Development
+### Portfolio Development
 - Ability to present and explain design work
 - Experience building and maintaining a digital portfolio
 - Understanding of file formats, compression, and optimization for digital delivery
@@ -83,7 +83,7 @@ This process helped me gain a clear understanding of how my strengths and intere
 
 ---
 
-## 💡 Personality Assessment
+##  Personality Assessment
 
 ### Evidence
 - Screenshot of MBTI/Big Five results.
@@ -110,7 +110,7 @@ This exercise helped me see how deeply personality influences career choices. I 
 
 ---
 
-## 📝 Creating My CV
+## Creating My CV
 
 ### Evidence
 - [Link to my CV (Markdown version)](cv.md)
@@ -133,7 +133,7 @@ The result was a professional CV that clearly communicates my technical skills a
 
 ---
 
-## 📤 CV Submission
+## CV Submission
 
 ### Evidence
 ![Blackboard Submission Receipt](link-to-receipt-image.png)
