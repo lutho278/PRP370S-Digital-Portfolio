@@ -88,7 +88,7 @@ This process helped me gain a clear understanding of how my strengths and intere
 ##  Personality Assessment
 
 ### Evidence
--![Blackboard Submission Receipt](link-to-receipt-image.png)
+-![Blackboard Submission Receipt](./media/Personality_assessment.png)
 
 ### Reflection: Personality Assessment
 
