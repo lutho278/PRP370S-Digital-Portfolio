@@ -114,7 +114,7 @@ This exercise helped me see how deeply personality influences career choices. I 
 
 ### Evidence
 - [Link to my CV (Markdown version)](cv.md)
-- [Career Counseling Report (PDF)](media/220280150_CV.pdf)
+- [My CV (PDF)](media/220280150_CV.pdf)
 
 ### Reflection: Creating My CV
 
