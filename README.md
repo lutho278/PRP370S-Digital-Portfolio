@@ -53,5 +53,5 @@ Welcome to my digital portfolio showcasing my personal and professional developm
 
 ## 🔗 Contact
 
-**GitHub Repo**: [GitHub Link]  
-**Email**: your.email@example.com
+**Cell Phone number**: 0718143268  
+**Email**: aluluthopamente78@gmail.com
