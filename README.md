@@ -1,7 +1,7 @@
 # PRP370S-Digital-Portfolio
 Welcome to my digital portfolio showcasing my personal and professional development journey during the Work Readiness Training.
 ### Evidence
-- [Career Counseling Report (PDF)](link-to-file)
+![Blackboard Submission Receipt](link-to-receipt-image.png)
 - Summary of insights from the session.
 
 ### Reflection: Career Counselling
@@ -24,6 +24,8 @@ This process helped me define a clearer career vision and create a development p
 ##  Skills and Interests
 
 ### Evidence
+![Blackboard Submission Receipt](link-to-receipt-image.png)
+
 ##  Core Skills for a Multimedia Student
 
 ###  Design & Creativity
@@ -86,8 +88,7 @@ This process helped me gain a clear understanding of how my strengths and intere
 ##  Personality Assessment
 
 ### Evidence
-- Screenshot of MBTI/Big Five results.
-- Key takeaway points.
+-![Blackboard Submission Receipt](link-to-receipt-image.png)
 
 ### Reflection: Personality Assessment
 
