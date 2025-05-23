@@ -12,7 +12,7 @@ Welcome to my digital portfolio showcasing my personal and professional developm
 ## 🧠 Skills and Interests
 
 ### Evidence
-- Screenshot of skills test results.
+- Max
 - List of top interests based on career aptitude.
 
 ### Reflection
