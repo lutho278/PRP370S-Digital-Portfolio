@@ -89,8 +89,24 @@ This process helped me gain a clear understanding of how my strengths and intere
 - Screenshot of MBTI/Big Five results.
 - Key takeaway points.
 
-### Reflection
-[Insert STAR Reflection Here]
+### Reflection: Personality Assessment
+
+**S – Situation**  
+During the Work Readiness Training for PRP370S, I participated in a personality assessment activity designed to help students understand how their personal traits align with various career paths.
+
+**T – Task**  
+My task was to evaluate my personality using a structured framework, understand how external influences and personality profiling play a role in career decision-making, and determine which personality types align with my interests and career goals.
+
+**A – Action**  
+I followed the five-step process shown in the provided personality framework:
+- **Identified outside career influences** such as family expectations, social environment, and cultural norms.
+- **Understood personality profiling** by taking part in an assessment and learning about tools like the MBTI and Holland’s Six Personality Types.
+- **Evaluated my personality** based on how I respond to challenges, communicate, and collaborate with others.
+- **Explored the six personality types** and found that I closely align with the Artistic and Investigative types, which suit careers in design, problem-solving, and innovation.
+- **Understood the connection** between personality type and career match, realizing that a multimedia or UI/UX design role fits both my traits and passions.
+
+**R – Result**  
+This exercise helped me see how deeply personality influences career choices. I now have a clearer sense of which roles will allow me to thrive and stay motivated. The insight gained has helped me refine my career direction, and I’m more focused on opportunities where creativity, autonomy, and meaningful problem-solving are valued.
 
 ---
 
@@ -120,11 +136,21 @@ The result was a professional CV that clearly communicates my technical skills a
 ## 📤 CV Submission
 
 ### Evidence
-- Screenshot of Blackboard submission confirmation.
+![Blackboard Submission Receipt](link-to-receipt-image.png)
 
-### Reflection
-[Insert STAR Reflection Here]
+### Reflection: CV Submission
 
+**S – Situation**  
+As part of the final step in the PRP370S Work Readiness Training, I was required to submit my completed CV via the university's Blackboard platform to demonstrate my ability to follow professional submission procedures and meet deadlines.
+
+**T – Task**  
+The task was to ensure my CV was well-prepared, formatted using Markdown, and successfully uploaded to Blackboard as evidence of my readiness to present myself in a professional setting.
+
+**A – Action**  
+After refining my CV and ensuring all sections reflected my academic background, technical skills, and project experiences, I reviewed the submission requirements. I double-checked the file format, confirmed the accuracy of my details, and uploaded the final version to Blackboard. Once submitted, I saved a copy of the Blackboard submission receipt as evidence.
+
+**R – Result**  
+I successfully submitted my CV on time and received confirmation via a submission receipt, which I’ve included below as proof. This step taught me the importance of paying attention to detail, following instructions, and keeping documentation of important processes. It also gave me confidence in presenting myself professionally in future job applications.
 ---
 
 ## 🔗 Contact
