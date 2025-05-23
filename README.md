@@ -151,7 +151,7 @@ After refining my CV and ensuring all sections reflected my academic background,
 
 **R – Result**  
 I successfully submitted my CV on time and received confirmation via a submission receipt, which I’ve included below as proof. This step taught me the importance of paying attention to detail, following instructions, and keeping documentation of important processes. It also gave me confidence in presenting myself professionally in future job applications.
----
+
 
 ## 🔗 Contact
 
