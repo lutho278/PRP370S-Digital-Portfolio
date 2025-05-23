@@ -1,7 +1,7 @@
 # PRP370S-Digital-Portfolio
 Welcome to my digital portfolio showcasing my personal and professional development journey during the Work Readiness Training.
 ### Evidence
-![Blackboard Submission Receipt](link-to-receipt-image.png)
+![Blackboard Submission Receipt](,/media/link-to-receipt-image.png)
 - Summary of insights from the session.
 
 ### Reflection: Career Counselling
