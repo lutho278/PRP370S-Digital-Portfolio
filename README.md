@@ -23,7 +23,7 @@ This process helped me define a clearer career vision and create a development p
 ##  Skills and Interests
 
 ### Evidence
-![Blackboard Submission Receipt](skills-interest.png.png)
+![Blackboard Submission Receipt](skills-interest.png)
 
 ##  Core Skills for a Multimedia Student
 
